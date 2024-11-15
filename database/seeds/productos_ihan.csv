@@ -1,0 +1,545 @@
+codigo_producto;descripcion_producto;unidades_por_caja;precio;iva;precio_con_iva;descuento_por_bultos;descuento_por_volumen;imagen_id;marca_id
+0169;Chico champu manzanilla 10x200ml ;10; 2,55 ; 0,41 ; 2,96 ;null;null;null;1
+0773;Chicco champu romero 200ml;10; 2,34 ; 0,37 ; 2,71 ;null;null;null;1
+0028;Chico champu original 10x200 ml;10; 3,04 ; 0,49 ; 3,53 ;null;null;null;1
+0357;Chicco champu original 400ml;10; 5,38 ; 0,86 ; 6,24 ;null;null;null;1
+0174;Chicco locion 10x200cc;10; 3,10 ; 0,50 ; 3,60 ;null;null;null;1
+0043;Chicco aceite con vitamina E 220 cc;10; 4,44 ; 0,71 ; 5,15 ;null;null;null;1
+0917;Chicco aceite con vitamina E 110 cc;24; 2,52 ; 0,40 ; 2,92 ;null;null;null;1
+0813;Chicco aceite cremoso 200ml;10; 2,47 ; 0,40 ; 2,87 ;null;null;null;1
+0036;Chicco colonia 220cc ;10; 3,47 ; 0,56 ; 4,03 ;null;null;null;1
+0581;Chicco colonia 110cc;24; 1,98 ; 0,32 ; 2,30 ;null;null;null;1
+0711;Chico cotoncito 3x2 60p;32; NULL ; NULL ; NULL ;null;null;null;1
+0038;Chico cotoncito 60p;48; 0,67 ; 0,11 ; 0,78 ;null;null;null;1
+0712;Chico cotoncito 3X2 100p;12; NULL ; NULL ; NULL ;null;null;null;1
+0616;Chico cotoncito 100p;32; 1,04 ; 0,17 ; 1,21 ;null;null;null;1
+0891;Chico cotoncito 300p pagas 200p;12; 2,04 ; 0,33 ; 2,37 ;null;null;null;1
+0890;Chico cotoncito 180p pagas 120p;16; 1,81 ; 0,29 ; 2,10 ;null;null;null;1
+0048;chicco gel antibacterial 100 cc;24; NULL ; NULL ; NULL ;null;null;null;1
+0877;Chicco motas de algod�n 100p paga 80p;12; 2,47 ; 0,40 ; 2,87 ;null;null;null;1
+0175;Chicco motas de algod�n 100p;12; 2,47 ; 0,40 ; 2,87 ;null;null;null;1
+0037;Chicco talco 200gr ;24; 3,91 ; 0,63 ; 4,54 ;null;null;null;1
+0732;Chicco talco 100gr ;24; 2,06 ; 0,33 ; 2,39 ;null;null;null;1
+0044;Chicco Toallas Humedas Original X72;24; NULL ; NULL ; NULL ;null;null;null;1
+0376;Chicco Toalla Humeda X48;20; NULL ; NULL ; NULL ;null;null;null;1
+0385;Chicco th original x24;40; 0,68 ; 0,11 ; 0,79 ;null;null;null;1
+0618;Ladyface discos de algod�n 80p;8; 2,05 ; 0,33 ; 2,38 ;null;null;null;1
+0828;Chicco crema protectora 80gr;16; 2,98 ; 0,48 ; 3,46 ;null;null;null;1
+0358;Chicco vaselina 80gr;16; 2,04 ; 0,33 ; 2,37 ;null;null;null;1
+0670;Chicco pa�al M reg. 20und;8; 3,15 ; 0,50 ; 3,65 ;null;null;null;1
+0704;Chicco pa�al G reg. 20und;8; 3,40 ; 0,54 ; 3,94 ;null;null;null;1
+0758;Chicco pa�al XG reg. 20und;8; 3,68 ; 0,59 ; 4,27 ;null;null;null;1
+0759;Jabon en barra para ni�os chicco 90gr;30; 1,49 ; 0,24 ; 1,73 ;null;null;null;1
+0053;Toallas humedas baby Amy X72;16; NULL ; NULL ; NULL ;null;null;null;2
+0889;Toallas humedas baby Amy X48;20; 0,89 ; 0,14 ; 1,03 ;null;null;null;2
+0888;Toallas humedas baby Amy X24;48; 0,58 ; 0,09 ; 0,67 ;null;null;null;2
+0051;Amy colonia bebe 10x220 cc;10; 2,67 ; 0,43 ; 3,10 ;null;null;null;2
+0052;Amy aceite 10x220cc ;10; 3,58 ; 0,57 ; 4,15 ;null;null;null;2
+0055;Amy locion 10x200cc;10; 2,25 ; 0,36 ; 2,61 ;null;null;null;2
+0054;Amy talco 200cc;24; 3,25 ; 0,52 ; 3,77 ;null;null;null;2
+0295;Amy hisopos 60 p;48; 0,81 ; 0,13 ; 0,94 ;null;null;null;2
+0033;Amy champu 10x200 cc;12; 2,21 ; 0,35 ; 2,56 ;null;null;null;2
+0170;Amy motas de algod�n 12x50p;12; 1,52 ; 0,24 ; 1,76 ;null;null;null;2
+0066;Avispa repelente tubo 12x100 gr ;12; 2,37 ; 0,38 ; 2,75 ;null;null;null;3
+0067;Avispa repelente tarro 12x100 gr ;12; 1,95 ; 0,31 ; 2,26 ;null;null;null;3
+0070;Avispa locion jabonosa 60 ml;12; 1,62 ; 0,26 ; 1,88 ;null;null;null;3
+0069;Avispa locion jabonosa 120 ml;12; 2,25 ; 0,36 ; 2,61 ;null;null;null;3
+0068;Avispa locion jabonosa 12x220 ml;12; 2,86 ; 0,46 ; 3,32 ;null;null;null;3
+0387;Avispa repelente aerosol 135gr;12; NULL ; NULL ; NULL ;null;null;null;3
+0388;Avispa repelente aerosol 220gr;12; NULL ; NULL ; NULL ;null;null;null;3
+0102;Nevada lips protectores cereza;12; 2,09 ; 0,33 ; 2,42 ;null;null;null;3
+0104;Nevada lips protectores coco;12; 2,09 ; 0,33 ; 2,42 ;null;null;null;3
+0101;Nevada lips protectores fresa;12; 2,09 ; 0,33 ; 2,42 ;null;null;null;3
+0103;Nevada lips protectores manzana;12; 2,09 ; 0,33 ; 2,42 ;null;null;null;3
+0100;Nevada lips protectores natural;12; 2,09 ; 0,33 ; 2,42 ;null;null;null;
+0062;Protectores friends regular 12x40;12; 1,58 ; 0,25 ; 1,83 ;15% XBULTO ;null;null;4
+0063;Protectores friends regular 8x60;8; NULL ; NULL ; NULL ;null;null;null;4
+0713;Protectores friends regular 12x60 promocion ;12; NULL ; NULL ; NULL ;null;null;null;4
+0829;Protectores friends regular 4x120 promocion ;4; 2,86 ; 0,46 ; 3,32 ;null;null;null;4
+0064;Protectores friends manzanilla 12x40;12; 1,58 ; 0,25 ; 1,83 ;15% XBULTO ;null;null;4
+0359;Friends ts tela regular 14und;12; 1,33 ; 0,21 ; 1,54 ;null;null;null;4
+0586;Frieds x-treme sec con alas 14und;12; 1,33 ; 0,21 ; 1,54 ;null;null;null;4
+0615;Friends ts nocturna sin alas 10und;12; 1,39 ; 0,22 ; 1,61 ;null;null;null;4
+0497;Friends jabon liquido intimo 240cc;12; 3,52 ; 0,56 ; 4,08 ;null;null;null;4
+0368;activa sec perdida abundante 12x10;12; 1,75 ; 0,28 ; 2,03 ;null;null;null;5
+0506;Pa�al securezza confort talla M 6 und;6; 4,99 ; 0,80 ; 5,79 ;null;null;null;6
+0495;Pa�al securezza confort talla L 6 und;6; 5,88 ; 0,94 ; 6,82 ;null;null;null;6
+0876;Pa�al securezza classic talla L lleve 20/16;4; 13,45 ; 2,15 ; 15,60 ;10 X BULTO;null;null;6
+0059;Toallas securezza post-parto premium 12x10;12; NULL ; NULL ; NULL ;null;null;null;6
+0060;Toallas securezza post-parto 12*10;12; NULL ; NULL ; NULL ;null;null;null;6
+0494;Securezza protector de cama 6*10;6; 5,76 ; 0,92 ; 6,68 ;null;null;null;6
+0057;Pa�al Securezza classic talla L 6 und;6; 4,74 ; 0,76 ; 5,50 ;null;null;null;6
+0056;Pa�al Securezza classic talla M 6 und;6; 4,03 ; 0,64 ; 4,67 ;null;null;null;6
+0233;Pa�al siempre seco talla M6*6;6; 3,25 ; 0,52 ; 3,77 ;null;null;null;7
+0282;Pa�al siempre seco talla G 6*6;6; NULL ; NULL ; NULL ;null;null;null;7
+0665;Siempre seco protector de cama 20und;4; 6,99 ; 1,12 ; 8,11 ;null;null;null;7
+0823;Nivea body milk nutritiva 48hrs 220 ml ;12; 4,59 ; 0,73 ; 5,32 ;null;null;null;8
+0004;Nivea body milk nutritiva 48hrs 400ml;15; 6,86 ; 1,10 ; 7,96 ;null;null;null;8
+0715;Nivea body milk nutritiva 48hrs 100ml;12; 2,71 ; 0,43 ; 3,14 ;null;null;null;8
+0001;Nivea body soft milk 48hrs piel seca 400 ml;15; NULL ; NULL ; NULL ;null;null;null;8
+0824;Nivea body soft milk 48hrs piel seca 220ml;12; 4,59 ; 0,73 ; 5,32 ;null;null;null;8
+0587;Nivea body soft milk 48hrs piel seca 100 ml;12; 2,71 ; 0,43 ; 3,14 ;null;null;null;8
+0705;Nivea body express hydration 48hrs 100 ml;12; 2,71 ; 0,43 ; 3,14 ;null;null;null;8
+0588;Nivea body express hydration 48hrs 220ml;12; 4,59 ; 0,73 ; 5,32 ;null;null;null;8
+0005;Nivea body express hydration 48hrs 400 ml;15; 6,86 ; 1,10 ; 7,96 ;null;null;null;8
+0007;Nivea body aloe vera 400 ml;15; 6,86 ; 1,10 ; 7,96 ;null;null;null;8
+0008;Nivea crema corporal Q10 reafirmante 400ml ;15; 8,52 ; 1,36 ; 9,88 ;null;null;null;8
+0176;Nivea Crema corporal cherry blossom 400ml ;12; NULL ; NULL ; NULL ;null;null;null;8
+0177;Nivea crema corporal rosas & aceite de argan 400ml;12; 7,51 ; 1,20 ; 8,71 ;null;null;null;8
+0853;Nivea crema corporal aclarado natural 220ml;12; 5,74 ; 0,92 ; 6,66 ;null;null;null;8
+0373;Nivea crema corporal aclarado natural 400ml;15; 8,52 ; 1,36 ; 9,88 ;null;null;null;8
+0590;Nivea crema corporal reg. Intensiva 72hr 400ml;15; 6,86 ; 1,10 ; 7,96 ;null;null;null;8
+0325;Agua micelar nivea piel mixta a grasa 400 ml ;10; NULL ; NULL ; NULL ;null;null;null;8
+0571;Nivea deo spray serum extra aclarante 100ml;12; 4,18 ; 0,67 ; 4,85 ;null;null;null;8
+0015;Antitranspirante nivea invisible roll-on 50 ml;12; 2,36 ; 0,38 ; 2,74 ;null;null;null;8
+0016;Antitranspirante nivea aclarado natural roll-on 50 ml;12; 2,36 ; 0,38 ; 2,74 ;null;null;null;8
+0825;Antitranspirante nivea efecto satin roll-on 50 ml;12; 2,36 ; 0,38 ; 2,74 ;null;null;null;8
+0014;Nivea deo roll on pearl & beauty 50ml;12; 2,36 ; 0,38 ; 2,74 ;null;null;null;8
+0733;Nivea deo roll on tono natural beauty touch 50ml;12; 2,36 ; 0,38 ; 2,74 ;null;null;null;8
+0011;Nivea men deo roll on fresh sport 50ml ;12; 2,36 ; 0,38 ; 2,74 ;null;null;null;8
+0012;Nivea men deo roll on fresh ice 50ml;12; 2,36 ; 0,38 ; 2,74 ;null;null;null;8
+0010;Antitranspirante nivea men dry impact roll-on 50 ml;12; 2,36 ; 0,38 ; 2,74 ;null;null;null;8
+0374;Nivea men deo roll-on silver protect 50 ml ;12; 2,36 ; 0,38 ; 2,74 ;null;null;null;8
+0375;Nivea men roll-on antitranspirante deep 50ml;12; 2,36 ; 0,38 ; 2,74 ;null;null;null;8
+0009;Antitranspirante nivea men invisible roll-on 50 ml;12; 2,36 ; 0,38 ; 2,74 ;null;null;null;8
+0762;Antitranspirante nivea men ultimate impact roll-on 50 ml;12; 2,36 ; 0,38 ; 2,74 ;null;null;null;8
+0747;Nivea aerosol anti tono natural beauty touch 150ml;12; 5,03 ; 0,80 ; 5,83 ;null;null;null;8
+0748;Nivea aerosol anti tono natural classic touch 150ml;12; 5,03 ; 0,80 ; 5,83 ;null;null;null;8
+0827;Nivea aerosol anti. b&w invisible clear 150ml;12; 5,03 ; 0,80 ; 5,83 ;null;null;null;8
+0771;Nivea aerosol pearl beauty 150ml;12; 5,03 ; 0,80 ; 5,83 ;null;null;null;8
+0749;Nivea men b&w inv original antitranspirante 150ml ;12; 5,03 ; 0,80 ; 5,83 ;null;null;null;8
+0881;Nivea men deep black carbon dark wood aerosol anti 150 ml;12; 5,03 ; 0,80 ; 5,83 ;null;null;null;8
+0750;Nivea men deep black carbon espresso aerosol anti 150ml;12; 5,03 ; 0,80 ; 5,83 ;null;null;null;8
+0751;Nivea men b&w invisible fresh aerosol anti 150ml ;12; NULL ; NULL ; NULL ;null;null;null;8
+0770;Nivea men aerosol silver protect 150ml;12; 5,03 ; 0,80 ; 5,83 ;null;null;null;8
+0826;Nivea men aerosol anti. b&w ultimate impact 150ml;12; 5,03 ; 0,80 ; 5,83 ;null;null;null;8
+0021;Nivea creme lata 50ml;12; NULL ; NULL ; NULL ;null;null;null;8
+0020;Nivea creme  tarro 100 ml;12; 5,52 ; 0,88 ; 6,40 ;null;null;null;8
+0821;Nivea creme tarro 200ml;12; 8,84 ; 1,41 ; 10,25 ;null;null;null;8
+0892;Agua micelar agua de rosas 400ml;12; 8,87 ; 1,42 ; 10,29 ;null;null;null;8
+0893;Agua micelar agua de rosas 100ml;12; 4,92 ; 0,79 ; 5,71 ;null;null;null;8
+0894;Nivea desmaquillante bifasico de ojos 125ml;12; 5,77 ; 0,92 ; 6,69 ;null;null;null;8
+0507;nivea crema facial agua de rosas 50 ml;12; NULL ; NULL ; NULL ;null;null;null;8
+0045;nivea crema facial cuidado nutritivo 50 ml;12; NULL ; NULL ; NULL ;null;null;null;8
+0047;nivea antiarrugas vitamina E 50 ml ;16; NULL ; NULL ; NULL ;null;null;null;8
+0046;Nivea crema facial aclarado natural 50ml;16; NULL ; NULL ; NULL ;null;null;null;8
+0050;Nivea gel limpiador facial purificante 150ml;6; 8,99 ; 1,44 ; 10,43 ;null;null;null;8
+0031;Nivea lip care strawberry shine;12; 2,75 ; 0,44 ; 3,19 ;null;null;null;8
+0032;Nivea lip care cherry shine;12; NULL ; NULL ; NULL ;null;null;null;8
+0591;Nivea lipcare med repair ;12; NULL ; NULL ; NULL ;null;null;null;8
+0034;Nivea lip care original ;12; NULL ; NULL ; NULL ;null;null;null;8
+0896;Labellos protector labial cereza ;12; 2,75 ; 0,44 ; 3,19 ;null;null;null;8
+0760;Labellos protector labial fresa ;12; 2,75 ; 0,44 ; 3,19 ;null;null;null;8
+0775;Labello protector labial original ;12; 2,75 ; 0,44 ; 3,19 ;null;null;null;8
+0761;Labello protector labial med repair fps15;12; 2,75 ; 0,44 ; 3,19 ;null;null;null;8
+0371;Nivea sun protector solar hidratante fps50+  200ml;12; 17,21 ; 2,75 ; 19,96 ;null;null;null;8
+0023;Nivea sun kids protector solar hidratante fps50+ 125ml;6; 12,65 ; 2,02 ; 14,67 ;null;null;null;8
+0720;Nivea protec & bronze 30 fps 200ml;6; 14,83 ; 2,37 ; 17,20 ;null;null;null;8
+0916;Nivea sun prot.Solar protect&fresh sport fps50 200ml ;6; 16,79 ; 2,69 ; 19,48 ;null;null;null;8
+0022;nivea sun protector solar hidratante125ml ;6; 12,65 ; 2,02 ; 14,67 ;null;null;null;8
+0734;Nivea sun kids swin & play hidratante fps 50 150 ml;6; 16,97 ; 2,72 ; 19,69 ;null;null;null;8
+0764;Nivea sun babies & kids prot  piel sensible fps 50 200ml;6; 16,97 ; 2,72 ; 19,69 ;null;null;null;8
+0895;Nivea sun protector solar facial antiedad q10 fps 50 ;6; 11,02 ; 1,76 ; 12,78 ;null;null;null;8
+0540;Nivea sun protector solar facial fps 50 ;12; 11,02 ; 1,76 ; 12,78 ;null;null;null;8
+0330;Nivea men espuma de afeitar silver protect 200ml;12; 5,80 ; 0,93 ; 6,73 ;null;null;null;8
+0331;Nivea men espuma de afeitar sensitive 200ml;12; 5,80 ; 0,93 ; 6,73 ;null;null;null;8
+0882;Nivea jabon intimo 250ml;12; 4,53 ; 0,72 ; 5,25 ;null;null;null;8
+0106;Dioxogen roll-on talco 90gr ;36; 1,77 ; 0,28 ; 2,05 ;3% X BULTO ;null;null;9
+0108;Dioxogen roll-on original 90gr ;36; 1,77 ; 0,28 ; 2,05 ;3% X BULTO ;null;null;9
+0107;Dioxogen roll-on aloe 90gr ;36; 1,77 ; 0,28 ; 2,05 ;3% X BULTO ;null;null;9
+0105;Dioxogen roll-on bicarbonato 90gr ;36; 1,77 ; 0,28 ; 2,05 ;3% X BULTO ;null;null;9
+0125;dioxogen gel antibacteria 50ml;12; NULL ; NULL ; NULL ;NULL;null;null;9
+0114;dioxogen solucion115ml *24;24; 0,96 ; 0,15 ; 1,11 ;NULL;null;null;9
+0579;Overskin tubo pa�alites 13% 50g;12; 2,27 ; 0,36 ; 2,63 ;NULL;null;null;9
+0119;Overskin tubo pa�alites 40% 50g;12; 3,37 ; 0,54 ; 3,91 ;NULL;null;null;9
+0763;Overskin 2 en 1 champu y gel de ba�o 280ml;12; 3,15 ; 0,50 ; 3,65 ;NULL;null;null;9
+0728;Dencorub ice arnica rooll on 80gr;12; NULL ; NULL ; NULL ;NULL;null;null;9
+0323;Dencorub ice roll on 80gr;15; 2,35 ; 0,38 ; 2,73 ;NULL;null;null;9
+0113;Dencorub ice gel 40gr;24; 1,95 ; 0,31 ; 2,26 ;NULL;null;null;9
+0527;Dencorub ice spray 120ml;12; 2,88 ; 0,46 ; 3,34 ;NULL;null;null;9
+0288;wampole emuls naranja 360ml ;6; 3,86 ; 0,62 ; 4,48 ;NULL;null;null;9
+0324;wampole emuls tutti frutti 360ml ;6; 3,86 ; 0,62 ; 4,48 ;NULL;null;null;9
+0110;wampole emuls fresa 360ml;6; 3,86 ; 0,62 ; 4,48 ;NULL;null;null;9
+0111;wampole emuls fresa 240ml;9; 2,91 ; 0,47 ; 3,38 ;NULL;null;null;9
+0289;wampole emuls tutti frutti 240ml;9; 2,91 ; 0,47 ; 3,38 ;NULL;null;null;9
+0112;wampole emuls naranja 240ml;9; 2,91 ; 0,47 ; 3,38 ;NULL;null;null;9
+0601;wampole emuls fresa 200ml;12; 2,43 ; 0,39 ; 2,82 ;NULL;null;null;9
+0599;wampole emuls tutti frutti 200ml;12; 2,43 ; 0,39 ; 2,82 ;NULL;null;null;9
+0600;wampole emuls naranja 200ml;12; 2,43 ; 0,39 ; 2,82 ;NULL;null;null;9
+0214;Schick exacta 2 delicada (mujer) blister 3 unidades ;72; NULL ; NULL ; NULL ;NULL;null;null;10
+0215;Schick exacta 2 sensible blister 3 unidades ;72; NULL ; NULL ; NULL ;NULL;null;null;10
+0219;Schick exacta 2 delicada (mujer) ristra 12 unidades ;12; 0,53 ; 0,08 ; 0,61 ;NULL;null;null;10
+0218;Schick exacta 2 sensible ristra 12 unidades ;12; NULL ; NULL ; NULL ;NULL;null;null;10
+0220;Schick exacta 2 normal ristra 12 unidades ;12; NULL ; NULL ; NULL ;NULL;null;null;10
+0217;Schick xtreme 3 hawaiian (mujer) ristra 12 unidades ;12; 1,10 ; 0,18 ; 1,28 ;NULL;null;null;10
+0216;Schick xtreme3 sensitive ristra 12 unidades ;12; NULL ; NULL ; NULL ;NULL;null;null;10
+0211;Schick xtreme3 sensitive blister 2 unidades ;24; NULL ; NULL ; NULL ;NULL;null;null;10
+0356;Schick xtrme3 piel normal 2 unidades ;24; 1,94 ; 0,31 ; 2,25 ;NULL;null;null;10
+0212;Schick xtreme3 hawaiian (mujer) blister 2 unidades ;24; 2,15 ; 0,34 ; 2,49 ;NULL;null;null;10
+0213;Schick xtreme 3 sensitive 4 unidades ;12; 3,70 ; 0,59 ; 4,29 ;NULL;null;null;10
+0463;Schick maquina mujer sensible Q4 1x1;12; 8,09 ; 1,29 ; 9,38 ;NULL;null;null;10
+0465;Schick respuesto mujer sensible 2x1;12; 8,88 ; 1,42 ; 10,30 ;NULL;null;null;10
+0221;Hojillas schick super chromium 3 hojas doble filo 10*3;10; 0,40 ; 0,06 ; 0,46 ;NULL;null;null;10
+0316;colorsilk C/ keratina negro 10;12; 5,80 ; 0,93 ; 6,73 ;NULL;null;null;11
+0320;colorsilk C/ keratina negro suave 11;12; 5,80 ; 0,93 ; 6,73 ;NULL;null;null;11
+0321;colorsilk C/ keratina negro azulado 12;12; 5,80 ; 0,93 ; 6,73 ;NULL;null;null;11
+0140;colorsilk C/ keratina negro natural 20;12; 5,80 ; 0,93 ; 6,73 ;NULL;null;null;11
+0141;colorsilk C/ keratina casta�o oscuro 30;12; 5,80 ; 0,93 ; 6,73 ;NULL;null;null;11
+0145;colorsilk C/ keratina chocolate 37;12; NULL ; NULL ; NULL ;NULL;null;null;11
+0370;Jean nate agua de colonia 443ml;24; 11,58 ; 1,85 ; 13,43 ;NULL;null;null;11
+0319;Removedor de esmalte cutex 100ml ;18; 2,98 ; 0,48 ; 3,46 ;NULL;null;null;11
+0515;Removedor de esmalte cutex 200ml ;36; 4,62 ; 0,74 ; 5,36 ;NULL;null;null;11
+0280;fresh'n soft toallas intimas para damas 10*20;10; 1,43 ; 0,23 ; 1,66 ;NULL;null;null;11
+0081;Toallas desmaquillantes fresh soft ;10; 1,18 ; 0,19 ; 1,37 ;NULL;null;null;11
+0279;fresh'n soft classic toallas de 15 und ;10; 0,69 ; 0,11 ; 0,80 ;NULL;null;null;11
+0026;fresh'n soft classic toallas de 64 und ;24; 0,98 ; 0,16 ; 1,14 ;NULL;null;null;11
+0589;Fresh's soft disco desmaquillantes 70und;48; 1,88 ; 0,30 ; 2,18 ;NULL;null;null;11
+0076;crema cero natural 50grs;12; 4,28 ; 0,68 ; 4,96 ;NULL;null;null;12
+0077;crema cero con vitamina E 50grs;12; 4,28 ; 0,68 ; 4,96 ;NULL;null;null;12
+0168;crema cero aloe vera 50grs;12; 4,28 ; 0,68 ; 4,96 ;NULL;null;null;12
+0073;crema cero natural 30grs;24; 2,46 ; 0,39 ; 2,85 ;NULL;null;null;12
+0075;crema cero con vitamina E 30grs;24; 2,46 ; 0,39 ; 2,85 ;NULL;null;null;12
+0074;crema cero aloe vera 30grs;24; 2,46 ; 0,39 ; 2,85 ;NULL;null;null;12
+0078;vaselina cero 50gr;12; 2,76 ; 0,44 ; 3,20 ;NULL;null;null;12
+;Crema cero concentrada 30gr;24; 3,22 ; 0,52 ; 3,74 ;NULL;null;null;12
+0248;IE Aceite corpo. Hidrat-coco400ml ;6; 9,46 ; 1,51 ; 10,97 ;NULL;null;null;13
+0258;IE Gel ba�o aloe vera 750ml;12; 6,88 ; 1,10 ; 7,98 ;NULL;null;null;13
+0260;IE Gel ba�o avena 750ML;12; 6,88 ; 1,10 ; 7,98 ;NULL;null;null;13
+0262;IE Gel ba�o glicerina 750 ml ;12; 8,85 ; 1,42 ; 10,27 ;NULL;null;null;13
+0558;IE Gel ba�o urea 750 ml ;12; 7,99 ; 1,28 ; 9,27 ;NULL;null;null;13
+0269;IE Locion hidra urea 500ml ;6; 12,92 ; 2,07 ; 14,99 ;NULL;null;null;13
+0263;IE Locion hidra aloe 500ml;6; 8,26 ; 1,32 ; 9,58 ;NULL;null;null;13
+0264;IE Locion hidra avena 500ml;6; 8,26 ; 1,32 ; 9,58 ;NULL;null;null;13
+0266;IE Locion hidra colageno 500ml;6; NULL ; NULL ; NULL ;NULL;null;null;13
+0268;IE Locion hidra coco 500ml;6; 8,54 ; 1,37 ; 9,91 ;NULL;null;null;13
+0275;IE Tarro crema aloe 400ml ;6; 8,74 ; 1,40 ; 10,14 ;NULL;null;null;13
+0277;IE Tarro crema avena 400ml;6; NULL ; NULL ; NULL ;NULL;null;null;13
+;IE cremas manos urea 150ml;6; NULL ; NULL ; NULL ;NULL;null;null;13
+;IE cremas manos urea 20% 75ml;6; 5,25 ; 0,84 ; 6,09 ;NULL;null;null;13
+;IE desodorante urea roll-on 75ml;6; 4,68 ; 0,75 ; 5,43 ;NULL;null;null;13
+0396;Crema corporal nuvel sabila y pepino 315ml;24; 2,48 ; 0,40 ; 2,88 ;NULL;null;null;14
+0439;Crema corporal nuvel piel seca colageno 315ml;24; 2,48 ; 0,40 ; 2,88 ;NULL;null;null;14
+0440;Crema corporal nuvel piel seca antioxidante 315ml;24; 2,48 ; 0,40 ; 2,88 ;NULL;null;null;14
+0441;Crema corporal extra seca aceite de almendra 315ml;24; 2,48 ; 0,40 ; 2,88 ;NULL;null;null;14
+0392;Crema corporal nuvel aceite de coco 750ml;12; 4,12 ; 0,66 ; 4,78 ;10% *6 UND;null;null;14
+0393;Creama corporal nuvel antioxidantes 750ml;12; 4,12 ; 0,66 ; 4,78 ;10% *6 UND;null;null;14
+0394;Crema corporal nuvel karite  750ml;12; 4,12 ; 0,66 ; 4,78 ;10% *6 UND;null;null;14
+0395;Crema corporal nuvel aceite arandano 750ml;12; 4,12 ; 0,66 ; 4,78 ;10% *6 UND;null;null;14
+0391;Creama corporal nuvel miel y avena 750ml;12; 4,12 ; 0,66 ; 4,78 ;10% *6 UND;null;null;14
+0505;Crema aclaradora ideal nuvel 750ml;12; 4,12 ; 0,66 ; 4,78 ;10% *6 UND;null;null;14
+0442;Crema corporal para hombre nuvel 470ml;24; 2,98 ; 0,48 ; 3,46 ;NULL;null;null;14
+0503;Nuvel intensive care body lottion 500ml;12; 3,38 ; 0,54 ; 3,92 ;NULL;null;null;14
+0596;Nuvel cocoa butter body lotion 295ml;12; 1,98 ; 0,32 ; 2,30 ;NULL;null;null;14
+0504;Nuvel body oil gel cocoa butter 200ml;6; 4,82 ; 0,77 ; 5,59 ;NULL;null;null;14
+0595;Nuvel dry skin lotion 295ml;6; 1,32 ; 0,21 ; 1,53 ;NULL;null;null;14
+0594;Nuvel gentle skin cleanser 473 ml;6; NULL ; NULL ; NULL ;NULL;null;null;14
+0592;Nuvel talco para pies 100gr;12; 2,16 ; 0,35 ; 2,51 ;NULL;null;null;14
+0593;Nuvel talco para pies kids 100gr;12; 1,66 ; 0,27 ; 1,93 ;NULL;null;null;14
+0584;Talco para bebe nuvel 100gr;12; 1,68 ; 0,27 ; 1,95 ;NULL;null;null;14
+0583;Vaselina para bebe nuvel 60gr;12; NULL ; NULL ; NULL ;NULL;null;null;14
+0407;Aceite para bebe nuvel 250 ml;24; 3,91 ; 0,63 ; 4,54 ;NULL;null;null;14
+0408;Shampoo para bebe nuvel 250ml;24; 2,19 ; 0,35 ; 2,54 ;NULL;null;null;14
+0409;Crema para bebe nuvel 250ml;24; 2,37 ; 0,38 ; 2,75 ;NULL;null;null;14
+0410;Colonia para bebe nuvel 250ml;24; 2,19 ; 0,35 ; 2,54 ;NULL;null;null;14
+0611;Aceite para bebe nuvel 125ml;12; 2,23 ; 0,36 ; 2,59 ;NULL;null;null;14
+0612;Shampoo para bebe nuvel 125ml;12; 1,65 ; 0,26 ; 1,91 ;NULL;null;null;14
+0614;Crema para bebe nuvel 125ml;12; 1,65 ; 0,26 ; 1,91 ;NULL;null;null;14
+0613;Colonia para bebe nuvel 125ml;12; NULL ; NULL ; NULL ;NULL;null;null;14
+0402;Bloqueador solar nuvel suncare kids 50fps 120ml;12; 6,45 ; 1,03 ; 7,48 ;NULL;null;null;14
+0401;Bloqueador solar nuvel suncare 50fps 120ml;12; 6,45 ; 1,03 ; 7,48 ;NULL;null;null;14
+0604;Quita esmalte nuvel 125ml ;24; 2,13 ; 0,34 ; 2,47 ;NULL;null;null;14
+0605;Quita esmalte nuvel 100% acetona 180ml;12; 3,13 ; 0,50 ; 3,63 ;NULL;null;null;14
+0606;Quita esmalte nuvel extra humectante 180ml;12; 2,74 ; 0,44 ; 3,18 ;NULL;null;null;14
+0610;Quita esmalte nuvel 100 ml;24; 1,99 ; 0,32 ; 2,31 ;15% X BULTO ;null;null;14
+0607;Quita esmalte nuvel con keratina 100ml;24; 1,99 ; 0,32 ; 2,31 ;15% X BULTO ;null;null;14
+0817;Shampoo familiar nuvel manzan y aloe 750ml ;16; 3,63 ; 0,58 ; 4,21 ;NULL;null;null;14
+0818;Shampoo familiar nuvel placenta y vitamina B5 750ml;16; 3,63 ; 0,58 ; 4,21 ;NULL;null;null;14
+0819;Crema para peinar nuvel manzana y aloe 300ml;12; 2,76 ; 0,44 ; 3,20 ;NULL;null;null;14
+0820;Crema para peinar nuvel placenta y vitamina B5 300ml;12; 2,76 ; 0,44 ; 3,20 ;NULL;null;null;14
+0597;Nuvel desodorante roll-on aclarado 50ml;12; 1,90 ; 0,30 ; 2,20 ;NULL;null;null;14
+0412;Wiki-wiki negro ;12; 0,37 ; 0,06 ; 0,43 ;NULL;null;null;15
+0413;Wiki-wiki azul marino, ;12; 0,37 ; 0,06 ; 0,43 ;NULL;null;null;15
+0425;Wiki-wiki azul verde oliva ;12; 0,37 ; 0,06 ; 0,43 ;NULL;null;null;15
+0417;Wiki-wiki verde fuerte, ;12; 0,37 ; 0,06 ; 0,43 ;NULL;null;null;15
+0419;Wiki-wiki rojo escarlata, ;12; 0,37 ; 0,06 ; 0,43 ;NULL;null;null;15
+0418;Wiki-wiki vinotinto;12; 0,37 ; 0,06 ; 0,43 ;NULL;null;null;15
+0430;Borocanfor cool 35gr;24; 1,57 ; 0,25 ; 1,82 ;NULL;null;null;16
+0431;Borocanfor cool 60gr;24; 2,36 ; 0,38 ; 2,74 ;NULL;null;null;16
+0432;Borocanfor cool 120gr;24; 3,79 ; 0,61 ; 4,40 ;NULL;null;null;16
+0428;Borocanfor original 35gr;24; 1,57 ; 0,25 ; 1,82 ;NULL;null;null;16
+0429;Borocanfor original 60gr;24; 2,36 ; 0,38 ; 2,74 ;NULL;null;null;16
+0436;Borocanfor original 120gr;24; 3,79 ; 0,61 ; 4,40 ;NULL;null;null;16
+0602;Selenil tratamiento capilar sensitive 108ml;12; 5,55 ; 0,89 ; 6,44 ;NULL;null;null;16
+0434;Selenil tratamiento capilar 108ml;12; NULL ; NULL ; NULL ;NULL;null;null;16
+0437;Calaminol frsh lotion 104ml;12; NULL ; NULL ; NULL ;NULL;null;null;16
+0557;Calaminol frsh gel 90ml;12; NULL ; NULL ; NULL ;NULL;null;null;16
+0883;Borocanfor original polvos 80gr (recarga);18; 2,25 ; 0,40 ; 2,88 ;NULL;null;null;16
+0513;Pila maxell AAx2;48; NULL ; NULL ; NULL ;NULL;null;null;17
+0514;Pila maxell AAAx2;48; NULL ; NULL ; NULL ;NULL;null;null;17
+0756;Pila maxell AAx6;48; 2,52 ; 0,40 ; 2,92 ;NULL;null;null;17
+0757;Pila maxell AAAx6;48; 2,52 ; 0,40 ; 2,92 ;NULL;null;null;17
+0487;Speed stick ;12; NULL ; NULL ; NULL ;NULL;null;null;17
+0484;Lady speed stick ;12; NULL ; NULL ; NULL ;NULL;null;null;17
+0293;Agua oxig. Crema climax vol 20;86; 0,72 ; 0,12 ; 0,84 ;NULL;null;null;17
+0139;Agua oxig. Crema climax vol 30;86; 0,72 ; 0,12 ; 0,84 ;NULL;null;null;17
+0135;Alcohol antiseptico pintos 120cc;48; 0,72 ; 0,12 ; 0,84 ;NULL;null;null;17
+0136;Alcohol antiseptico pintos 250cc;42; NULL ; NULL ; NULL ;NULL;null;null;17
+0137;Alcohol antiseptico pintos 500cc;25; 2,25 ; 0,36 ; 2,61 ;NULL;null;null;17
+0138;Alcohol antiseptico pintos litro ;12; NULL ; NULL ; NULL ;NULL;null;null;17
+0403;Gillette sensor2 ;36; 1,22 ; 0,20 ; 1,42 ;NULL;null;null;17
+0344;Every night champu cacao 365 cc ;12; 3,25 ; 0,52 ; 3,77 ;NULL;null;null;18
+0620;Every night champu cereales 365 cc ;12; 3,25 ; 0,52 ; 3,77 ;NULL;null;null;18
+0305;Every night champu coco 365 cc ;12; 3,25 ; 0,52 ; 3,77 ;NULL;null;null;18
+0306;Every night champu frutas 365 cc ;12; 3,25 ; 0,52 ; 3,77 ;NULL;null;null;18
+0307;Every night champu te verde 365 cc ;12; 3,25 ; 0,52 ; 3,77 ;NULL;null;null;18
+0802;Every night acondicionador cacao 365 cc ;12; 3,18 ; 0,51 ; 3,69 ;NULL;null;null;18
+0342;Every night acondicionador cereales 365 cc ;12; 3,18 ; 0,51 ; 3,69 ;NULL;null;null;18
+0777;Every night acondicionador coco 365 cc ;12; 3,18 ; 0,51 ; 3,69 ;NULL;null;null;18
+0779;Every night acondicionador frutas 365 cc ;12; 3,18 ; 0,51 ; 3,69 ;NULL;null;null;18
+0778;Every night acondicionador te verde 365 cc ;12; 3,18 ; 0,51 ; 3,69 ;NULL;null;null;18
+0345;Every night champu cacao 210cc ;12; 1,99 ; 0,32 ; 2,31 ;NULL;null;null;18
+0343;Every night champu cereales 210 cc ;12; 1,99 ; 0,32 ; 2,31 ;NULL;null;null;18
+0346;Every night champu coco 210cc ;12; 1,99 ; 0,32 ; 2,31 ;NULL;null;null;18
+0347;Every night champu frutas 210 cc ;12; 1,99 ; 0,32 ; 2,31 ;NULL;null;null;18
+0783;Every night champu te verde 210 cc ;12; 1,99 ; 0,32 ; 2,31 ;NULL;null;null;18
+0781;Every night acondicionador coco 210 cc ;12; 1,92 ; 0,31 ; 2,23 ;NULL;null;null;18
+0782;Every night acondicionador frutas 210 cc ;12; 1,92 ; 0,31 ; 2,23 ;NULL;null;null;18
+0780;Every night acondicionador te verde 210 cc ;12; 1,92 ; 0,31 ; 2,23 ;NULL;null;null;18
+0619;Every night desodorante colonia 90 gr;12; 1,42 ; 0,23 ; 1,65 ;NULL;null;null;18
+0313;Every night desodorante baby pink 90 gr;12; 1,42 ; 0,23 ; 1,65 ;NULL;null;null;18
+0312;Every night desodorante naturelle 90 gr;12; 1,42 ; 0,23 ; 1,65 ;NULL;null;null;18
+0315;Every night desodorante powder 90 gr;12; 1,42 ; 0,23 ; 1,65 ;NULL;null;null;18
+0311;Every night desodorante sport 90 gr;12; 1,42 ; 0,23 ; 1,65 ;NULL;null;null;18
+0310;Every night desodorante fresh 90 gr;12; 1,42 ; 0,23 ; 1,65 ;NULL;null;null;18
+0314;Every night desodorante spring 90 gr;12; 1,42 ; 0,23 ; 1,65 ;NULL;null;null;18
+0671;Every night gel fijador strong 100gr;24; 1,09 ; 0,17 ; 1,26 ;NULL;null;null;18
+0672;Every night gel fijador winner 100gr;24; 1,09 ; 0,17 ; 1,26 ;NULL;null;null;18
+0798;Every night gel fijador power 100gr;24; 1,09 ; 0,17 ; 1,26 ;NULL;null;null;18
+0799;Every night gel fijador fresh 100gr;24; 1,09 ; 0,17 ; 1,26 ;NULL;null;null;18
+0621;Every night gel fijador fresh 250gr;12; 1,73 ; 0,28 ; 2,01 ;NULL;null;null;18
+0302;Every night gel fijador winner 250gr;12; 1,73 ; 0,28 ; 2,01 ;NULL;null;null;18
+0678;Every night gel fijador power 250gr;12; 1,73 ; 0,28 ; 2,01 ;NULL;null;null;18
+0301;Every night gel fijador strong 250gr;12; 1,73 ; 0,28 ; 2,01 ;NULL;null;null;18
+0674;Every night gel fijador strong 500gr;12; 2,43 ; 0,39 ; 2,82 ;NULL;null;null;18
+0800;Every night gel fijador power500gr;12; 2,43 ; 0,39 ; 2,82 ;NULL;null;null;18
+0801;Every night gel fijador fresh 500gr;12; 2,43 ; 0,39 ; 2,82 ;NULL;null;null;18
+0673;Every night gel fijador winner 500gr;12; 2,43 ; 0,39 ; 2,82 ;NULL;null;null;18
+0784;Every night jabon mandarina 110gr;36; 0,92 ; 0,15 ; 1,07 ;NULL;null;null;18
+0786;Every night jabon coco 110gr;36; 0,92 ; 0,15 ; 1,07 ;NULL;null;null;18
+0309;Every night jabon manzana 110gr;36; 0,92 ; 0,15 ; 1,07 ;NULL;null;null;18
+0308;Every night jabon avena 110gr;36; 0,92 ; 0,15 ; 1,07 ;NULL;null;null;18
+0785;Every night jabon expl. Tropical 110gr;36; 0,92 ; 0,15 ; 1,07 ;NULL;null;null;18
+0932;Every night jabon cuatripack mandarina 4x110g;8; 3,23 ; 0,52 ; 3,75 ;NULL;null;null;18
+0933;Every night jabon cuatripack coco 4x110g;8; 3,23 ; 0,52 ; 3,75 ;NULL;null;null;18
+0803;Every night bio crema c hidr ultra cacao 365cc;12; 3,03 ; 0,48 ; 3,51 ;NULL;null;null;18
+0804;Every night bio crema c hidr suave milk 365cc;12; 3,03 ; 0,48 ; 3,51 ;NULL;null;null;18
+0805;Every night bio crema c hidr fresca aloe & miel 365cc;12; 3,03 ; 0,48 ; 3,51 ;NULL;null;null;18
+0806;Every night bio crema c hidr maxima coco 365cc;12; 3,03 ; 0,48 ; 3,51 ;NULL;null;null;18
+0807;Every night bio crema c hidr ultra cacao 200cc;12; 2,17 ; 0,35 ; 2,52 ;NULL;null;null;18
+0808;Every night bio crema c hidr suave milk 200cc;12; 2,17 ; 0,35 ; 2,52 ;NULL;null;null;18
+0810;Every night bio crema c hidr maxima coco 200cc;12; 2,17 ; 0,35 ; 2,52 ;NULL;null;null;18
+0809;Every night bio crema c hidr fresca aloe & miel 200cc;12; 2,17 ; 0,35 ; 2,52 ;NULL;null;null;18
+0341;Every night bio cpp cereales 300cc;12; 2,53 ; 0,40 ; 2,93 ;NULL;null;null;18
+0303;Every night bio cpp coco 300cc;12; 2,53 ; 0,40 ; 2,93 ;NULL;null;null;18
+0304;Every night bio cpp te verde y aloe 300cc;12; 2,53 ; 0,40 ; 2,93 ;NULL;null;null;18
+0340;Every night bio cpp cacao y f rojos 300cc;12; 2,53 ; 0,40 ; 2,93 ;NULL;null;null;18
+0298;Drene champu liso 370cc;12; 3,35 ; 0,54 ; 3,89 ;NULL;null;null;18
+0622;Drene champu quebradizo 370cc;12; 3,35 ; 0,54 ; 3,89 ;NULL;null;null;18
+0296;Drene champu rizado 370cc;12; 3,35 ; 0,54 ; 3,89 ;NULL;null;null;18
+0297;Drene champu seco 370cc;12; 3,35 ; 0,54 ; 3,89 ;NULL;null;null;18
+0795;Drene acondicionador liso 370cc;12; 3,31 ; 0,53 ; 3,84 ;NULL;null;null;18
+0797;Drene acondicionador  quebradizo 370cc;12; 3,31 ; 0,53 ; 3,84 ;NULL;null;null;18
+0794;Drene acondicionador rizado 370cc;12; 3,31 ; 0,53 ; 3,84 ;NULL;null;null;18
+0796;Drene acondicionador seco 370cc;12; 3,31 ; 0,53 ; 3,84 ;NULL;null;null;18
+0338;Drene champu liso 200cc;12; 2,06 ; 0,33 ; 2,39 ;NULL;null;null;18
+0787;Drene champu quebradizo 200cc;12; 2,06 ; 0,33 ; 2,39 ;NULL;null;null;18
+0788;Drene champu rizado 200cc;12; 2,06 ; 0,33 ; 2,39 ;NULL;null;null;18
+0337;Drene champu seco 200cc;12; 2,06 ; 0,33 ; 2,39 ;NULL;null;null;18
+0790;Drene acondicionador liso 200cc;12; 2,02 ; 0,32 ; 2,34 ;NULL;null;null;18
+0793;Drene acondicionador  quebradizo 200cc;12; 2,02 ; 0,32 ; 2,34 ;NULL;null;null;18
+0789;Drene acondicionador rizado 200cc;12; 2,02 ; 0,32 ; 2,34 ;NULL;null;null;18
+0792;Drene acondicionador seco 200cc;12; 2,02 ; 0,32 ; 2,34 ;NULL;null;null;18
+0791;Drene acondicionador 3 minutos rev. 200cc;12; 2,18 ; 0,35 ; 2,53 ;NULL;null;null;18
+0755;Drene champu anticaspa cabello seco 370cc;12; 3,72 ; 0,60 ; 4,32 ;NULL;null;null;18
+0753;Drene champu anticaspa cabello graso 370cc;12; 3,72 ; 0,60 ; 4,32 ;NULL;null;null;18
+0752;Drene champu anticaspa anticadia 370cc;12; 3,72 ; 0,60 ; 4,32 ;NULL;null;null;18
+0816;Drene crema para peinar rizado 240cc;12; 2,48 ; 0,40 ; 2,88 ;NULL;null;null;18
+0300;Drene crema para peinar seco maltratado 240cc;12; 2,48 ; 0,40 ; 2,88 ;NULL;null;null;18
+0299;Drene crema para peinar liso 240cc;12; 2,48 ; 0,40 ; 2,88 ;NULL;null;null;18
+0814;Drene champu anticaspa anticadia 200cc;12; 2,39 ; 0,38 ; 2,77 ;NULL;null;null;18
+0815;Drene champu anticaspa graso 200cc;12; 2,39 ; 0,38 ; 2,77 ;NULL;null;null;18
+0898;Dermox crema milk nutritiva proteina de leche 200cc;12; 2,46 ; 0,39 ; 2,85 ;NULL;null;null;18
+0899;Dermox crema humectante con vitamina E 200cc;12; 2,46 ; 0,39 ; 2,85 ;NULL;null;null;18
+0897;Dermox crema humectante glicerina 200cc;12; 2,46 ; 0,39 ; 2,85 ;NULL;null;null;18
+0830;Dermox crema milk nutritiva proteina de leche 350cc;12; NULL ; NULL ; NULL ;NULL;null;null;18
+0831;Dermox crema humectante con vitamina E350cc;12; NULL ; NULL ; NULL ;NULL;null;null;18
+0833;Dermox crema humectante colageno 350cc;12; NULL ; NULL ; NULL ;NULL;null;null;18
+0832;Dermox crema humectante glicerina 350cc;12; 3,20 ; 0,51 ; 3,71 ;NULL;null;null;18
+0936;Dermox hydra plus crema hidrat. Prot.leche 365 cc;12; 3,20 ; 0,51 ; 3,71 ;NULL;null;null;18
+0935;Dermox hydra plus crema humect.glicerina 365cc;12; 3,20 ; 0,51 ; 3,71 ;NULL;null;null;18
+0934;Dermox hydra plus crema nutrit.coco 365cc ;12; 3,20 ; 0,51 ; 3,71 ;NULL;null;null;18
+0921;Dermox hydra plus crema reafirm.Colageno 365cc;12; 3,20 ; 0,51 ; 3,71 ;NULL;null;null;18
+0930;Dermox hydra plus crema hidra prot leche  800ml;12; 6,15 ; 0,98 ; 7,13 ;NULL;null;null;18
+0931;Dermox hydra plus crema humect glicerina 800ml;12; 6,15 ; 0,98 ; 7,13 ;NULL;null;null;18
+0900;Every night ni�os cpp manzanilla brill 240cc;12; 2,07 ; 0,33 ; 2,40 ;NULL;null;null;18
+0348;Every night ni�os cha proteina 350cc;12; 2,81 ; 0,45 ; 3,26 ;NULL;null;null;18
+0349;Every night ni�os cha proteina 200cc;12; 1,67 ; 0,27 ; 1,94 ;NULL;null;null;18
+0915;Every night ni�os cha manzanilla brill 350cc;12; 2,81 ; 0,44 ; 3,18 ;NULL;null;null;18
+0903;Every night  ni�os cha manzanilla brill 210cc;12; 1,67 ; 0,27 ; 1,94 ;NULL;null;null;18
+0902;Every night ni�os jabon suave caricias 90gr;36; 0,94 ; 0,15 ; 1,09 ;NULL;null;null;18
+0901;Every night ni�os jabon coco travieso 90gr;36; 0,94 ; 0,15 ; 1,09 ;NULL;null;null;18
+0854;Every night deo barra baby pink 50gr;12; 2,49 ; 0,42 ; 3,07 ;NULL;null;null;18
+0855;Every night deo barra powder 50gr;12; 2,49 ; 0,42 ; 3,07 ;NULL;null;null;18
+0856;Every night men deo barra sport 50gr;12; 2,49 ; 0,42 ; 3,07 ;NULL;null;null;18
+0857;Every night men deo barra fresh 50gr;12; 2,49 ; 0,42 ; 3,07 ;NULL;null;null;18
+0835;Eterna trapero microfibra mango metal ;12; 7,60 ; 1,22 ; 8,82 ;NULL;null;null;19
+0836;Eterna pa�o micro fibra color surtido ;12; 3,45 ; 0,55 ; 4,00 ;NULL;null;null;19
+0840;Eterna guantes trab. Pesado t. 8;12; 1,93 ; 0,31 ; 2,24 ;NULL;null;null;19
+0839;Eterna guantes trab. Pesado t. 8,5;12; 1,93 ; 0,31 ; 2,24 ;NULL;null;null;19
+0838;Eterna guantes trab. Pesado t. 9;12; 1,93 ; 0,31 ; 2,24 ;NULL;null;null;19
+0837;Eterna guantes trab. Pesado t. 9,5;12; 1,93 ; 0,31 ; 2,24 ;NULL;null;null;19
+0841;Eterna esponja inox abrasiva 2;12; 1,19 ; 0,19 ; 1,38 ;NULL;null;null;19
+0842;Eterna esponja espiral de acero ;6; 0,64 ; 0,10 ; 0,74 ;NULL;null;null;19
+0843;Eterna flash esponja 2x3 ;16; 1,68 ; 0,27 ; 1,95 ;NULL;null;null;19
+0844;Eterna flash esponja 1 und;6; 0,69 ; 0,11 ; 0,80 ;NULL;null;null;19
+0845;Eterna esponja cuida u�as paq. 2x3;16; 1,65 ; 0,26 ; 1,91 ;NULL;null;null;19
+0846;Eterna esponja cuida u�as paq. 1 und;24; 0,80 ; 0,13 ; 0,93 ;NULL;null;null;19
+0847;Eterna esponja doble uso paq 2 und;24; 1,10 ; 0,18 ; 1,28 ;NULL;null;null;19
+0848;Eterna esponja doble uso paq 1 und;24; 0,61 ; 0,10 ; 0,71 ;NULL;null;null;19
+0850;Eterna guantes clasicos t. 8;12; 1,93 ; 0,31 ; 2,24 ;NULL;null;null;19
+0849;Eterna guantes clasicos t. 8,5;12; 1,93 ; 0,31 ; 2,24 ;NULL;null;null;19
+0852;Eterna guantes clasicos t. 7;12; 1,93 ; 0,31 ; 2,24 ;NULL;null;null;19
+0851;Eterna guantes clasicos t. 7,5;12; 1,93 ; 0,31 ; 2,24 ;NULL;null;null;19
+0648;Baygon verde aerosol 360cc ;12; 5,27 ; 0,84 ; 6,11 ;NULL;null;null;20
+0649;Baygon verde aerosol 235cc ;12; 3,98 ; 0,64 ; 4,62 ;NULL;null;null;20
+0650;Baygon insectos voladores 360ml;12; 5,38 ; 0,86 ; 6,24 ;NULL;null;null;20
+0651;Baygon insectos voladores 235ml;12; 4,24 ; 0,68 ; 4,92 ;NULL;null;null;20
+0653;Baygon doble acc nva fragancia 360cc;12; 6,06 ; 0,97 ; 7,03 ;NULL;null;null;20
+0652;Baygon doble acc nva fragancia 235cc;12; 4,58 ; 0,73 ; 5,31 ;NULL;null;null;20
+0654;Baygon espirales 12und;12; 3,32 ; 0,53 ; 3,85 ;NULL;null;null;20
+0655;Raid elimina voladores 360cc ;12; 6,19 ; 0,99 ; 7,18 ;NULL;null;null;20
+0656;Raid elimina voladores 235cc ;12; 4,93 ; 0,79 ; 5,72 ;NULL;null;null;20
+0657;Raid gold 235cc ;12; 4,81 ; 0,77 ; 5,58 ;NULL;null;null;20
+0871;Raid gold 360cc ;12; 6,53 ; 1,04 ; 7,57 ;NULL;null;null;20
+0658;Raid max aerosol 360cc;12; 5,84 ; 0,93 ; 6,77 ;NULL;null;null;20
+0659;Raid max aerosol 235cc;12; 4,70 ; 0,75 ; 5,45 ;NULL;null;null;20
+0660;Raid repel contra zanc. ue pastilla ;12; NULL ; NULL ; NULL ;NULL;null;null;20
+0664;Raid repel contra zanc rep pastilla ;12; NULL ; NULL ; NULL ;NULL;null;null;20
+0765;Favor apresto 360cc;12; 4,70 ; 0,75 ; 5,45 ;NULL;null;null;20
+0740;Glade aerosol dulce vainilla 400ml;12; NULL ; NULL ; NULL ;NULL;null;null;20
+0661;Glade aerosol manzana canela 235cc;12; 3,32 ; 0,53 ; 3,85 ;NULL;null;null;20
+0709;Glade aerosol campo lavanda 235cc;12; 3,32 ; 0,53 ; 3,85 ;NULL;null;null;20
+0626;Glade aerosol manzana canela 360cc;12; 3,88 ; 0,62 ; 4,50 ;NULL;null;null;20
+0662;Glade aerosol campo lavanda 360cc;12; 3,88 ; 0,62 ; 4,50 ;NULL;null;null;20
+0623;Glade aerosol paraiso azul 360cc;12; 3,88 ; 0,62 ; 4,50 ;NULL;null;null;20
+0624;Glade aerosol fresh lemon 360cc;12; 3,88 ; 0,62 ; 4,50 ;NULL;null;null;20
+0625;Glade aerosol vainilla 360cc;12; 3,88 ; 0,62 ; 4,50 ;NULL;null;null;20
+0822;Glade aceite nat manzana canela  21ml                                              ;12; 6,86 ; 1,10 ; 7,96 ;NULL;null;null;20
+0706;Glade aceite nat manzana nat paraiso azul 21ml                                              ;12; 6,86 ; 1,10 ; 7,96 ;NULL;null;null;20
+;Glade aceite nat manzana nat abraz de vainilla 21ml                                              ;12; 6,86 ; 1,10 ; 7,96 ;NULL;null;null;20
+0884;Glade aceite nat hawaiian breez 63ml;12; 10,64 ; 1,70 ; 12,34 ;NULL;null;null;20
+0677;Glade aceite nat manzana canela 63ml;12; 10,64 ; 1,70 ; 12,34 ;NULL;null;null;20
+;Glade aceite nat abraz de vainila 63ml;12; 10,64 ; 1,70 ; 12,34 ;NULL;null;null;20
+0675;Off crema 196gr;12; NULL ; NULL ; NULL ;NULL;null;null;20
+0769;Off crema kids 100gr;12; 5,55 ; 0,89 ; 6,44 ;NULL;null;null;20
+0707;Off extra duracion aerosol 202ml;12; 6,83 ; 1,09 ; 7,92 ;NULL;null;null;20
+0723;Off extra duracion spray 177ml;12; NULL ; NULL ; NULL ;NULL;null;null;20
+0767;Off aerosol 217ml;12; 5,74 ; 0,92 ; 6,66 ;NULL;null;null;20
+0629;Off family crema repelente 60gr 12u;12; 1,95 ; 0,31 ; 2,26 ;NULL;null;null;20
+0631;Pride naranja 360cc;12; 5,38 ; 0,86 ; 6,24 ;NULL;null;null;20
+0632;Pride natural 360cc;12; 5,38 ; 0,86 ; 6,24 ;NULL;null;null;20
+0633;Mr musculo brillosita cera 900ml;12; 4,48 ; 0,72 ; 5,20 ;NULL;null;null;20
+0634;Mr musculo ba�o gatillo 500ml;12; NULL ; NULL ; NULL ;NULL;null;null;20
+0635;Mr musculo ba�o respuesto 500ml;12; 3,54 ; 0,57 ; 4,11 ;NULL;null;null;20
+0636;Mr musculo antigrasa naranj gat 500ml ;12; 5,16 ; 0,83 ; 5,99 ;NULL;null;null;20
+0637;Mr musculo antigrasa naranj rep 500ml ;12; 3,88 ; 0,62 ; 4,50 ;NULL;null;null;20
+0638;Mr musculo antigrasa verde gat 500ml;12; 5,16 ; 0,83 ; 5,99 ;NULL;null;null;20
+0639;Mr musculo antigrasa verde rep 500ml;12; 3,88 ; 0,62 ; 4,50 ;NULL;null;null;20
+0640;Mr musculo cocina citrus 500ml;12; 3,20 ; 0,51 ; 3,71 ;NULL;null;null;20
+0641;Mr musculo 5 en 1 marina 500ml;12; NULL ; NULL ; NULL ;NULL;null;null;20
+0642;Mr musculo 5 en 1 naturaleza 500ml;12; 3,32 ; 0,53 ; 3,85 ;NULL;null;null;20
+0644;Mr musculo glade floral perfec 900ml;12; 3,66 ; 0,59 ; 4,25 ;NULL;null;null;20
+0645;Mr musculo glade lavanda 900ml;12; 3,66 ; 0,59 ; 4,25 ;NULL;null;null;20
+0646;Mr musculo glade lavanda 500ml;12; 2,13 ; 0,34 ; 2,47 ;NULL;null;null;20
+0643;Mr musculo glade floral 500ml ;12; 2,13 ; 0,34 ; 2,47 ;NULL;null;null;20
+0647;Mr musculo glade caricia bebe 900ml;12; 3,50 ; 0,56 ; 4,06 ;NULL;null;null;20
+0742;Pato in tank 4 pack 160gr;12; 4,81 ; 0,77 ; 5,58 ;NULL;null;null;20
+0710;Pato in tank twinpack 80grs;12; 3,03 ; 0,48 ; 3,51 ;NULL;null;null;20
+0880;Pato tanque pastilla 40gr;24; 1,41 ; 0,23 ; 1,64 ;NULL;null;null;20
+0741;Pato disco act brisas de mar;12; NULL ; NULL ; NULL ;NULL;null;null;20
+0768;Family guard aerosol floral 360ml;12; 6,95 ; 1,11 ; 8,06 ;NULL;null;null;20
+0766;Windex limpiador de vidrios y superficies 500ml;12; 1,85 ; 0,30 ; 2,15 ;NULL;null;null;20
+0682;Energizer bat alk AAAX2;24; 1,73 ; 0,28 ; 2,01 ;NULL;null;null;21
+0717;Energizer bat alk AAX2;24; 1,73 ; 0,28 ; 2,01 ;NULL;null;null;21
+0729;Kotex toalla fem esencial con alas 8und;16; 0,93 ; 0,15 ; 1,08 ;5%  X BULTO ;null;null;21
+0718;Kotex toalla fem fitness uf 10und;12; 1,55 ; 0,25 ; 1,80 ;NULL;null;null;21
+0690;Kotex toalla fem Ultraprotect (diurna) 10und;48; 1,22 ; 0,20 ; 1,42 ;10%  X BULTO ;null;null;21
+0694;Kotex toalla fem nocturna 8und;12; 1,70 ; 0,27 ; 1,97 ;10%  X BULTO ;null;null;21
+0695;Kotex toalla fem dia&noche 8und;12; 2,37 ; 0,38 ; 2,75 ;NULL;null;null;21
+0696;Kotex toalla fem uf puro 10und;12; 1,55 ; 0,25 ; 1,80 ;NULL;null;null;21
+0701;Kotex toalla fem cuidado avanzado 10und;48; 1,25 ; 0,20 ; 1,45 ;NULL;null;null;21
+0698;Kotex liner 15und;24; 1,04 ; 0,17 ; 1,21 ;NULL;null;null;21
+0697;Kotex liner 50und;12; 3,25 ; 0,52 ; 3,77 ;NULL;null;null;21
+0691;kotex liner antibacterial 15und;12; 1,09 ; 0,17 ; 1,26 ;NULL;null;null;21
+0692;kotex liner antibacterial 50und;12; 3,41 ; 0,55 ; 3,96 ;NULL;null;null;21
+0699;kotex liner indicador ph 15und;12; 1,19 ; 0,19 ; 1,38 ;NULL;null;null;21
+0700;kotex liner indicador ph 40und;12; 3,05 ; 0,49 ; 3,54 ;NULL;null;null;21
+0693;Kotex liner puro 50und ;12; 3,51 ; 0,56 ; 4,07 ;NULL;null;null;21
+0719;Kotex liner ultraflex 15und;12; 1,23 ; 0,20 ; 1,43 ;NULL;null;null;21
+0878;Kotex liner largo 16und;12; 1,22 ; 0,20 ; 1,42 ;NULL;null;null;21
+0683;Huggies toallas hum limpieza cotidiana 80un;12; 1,72 ; 0,28 ; 2,00 ;NULL;null;null;21
+0684;Huggies toallas hum limpieza efectiva 48und;24; 1,60 ; 0,26 ; 1,86 ;NULL;null;null;21
+0686;Huggies toallas hum limpieza efectiva 16und;24; 0,59 ; 0,09 ; 0,68 ;NULL;null;null;21
+0688;Huggies pa�al triple proteccion  talla M 20und;8; NULL ; NULL ; NULL ;NULL;null;null;21
+0721;Huggies pa�al triple proteccion talla G 20und;8; 4,42 ; 0,71 ; 5,13 ;NULL;null;null;21
+0722;Huggies pa�al triple proteccion talla XG 20und;8; 5,41 ; 0,87 ; 6,28 ;NULL;null;null;21
+0689;Huggies pa�al triple proteccion talla XXG 20und;8; 5,89 ; 0,94 ; 6,83 ;NULL;null;null;21
+0702;Scott papel hig rindemax 4und;12; 2,83 ; 0,45 ; 3,28 ;NULL;null;null;21
+0866;Scott  toallin duramax 52 pa�os ;12; NULL ; NULL ; NULL ;NULL;null;null;21
+0772;Scott  toallin mega absorb ;12; 1,19 ; 0,19 ; 1,38 ;NULL;null;null;21
+0679;Axe aerosol bs marine 150ml;12; 3,85 ; 0,62 ; 4,47 ;NULL;null;null;21
+0887;Axe aerosol bs dark temperation 150ml;12; 3,85 ; 0,62 ; 4,47 ;NULL;null;null;21
+0886;Axe aerosol bs collision 150ml;12; 3,85 ; 0,62 ; 4,47 ;NULL;null;null;21
+0885;Axe aerosol bs apollo 150ml;12; 3,85 ; 0,62 ; 4,47 ;NULL;null;null;21
+0703;Kleenex pocket 4x10und;12; 2,15 ; 0,34 ; 2,49 ;NULL;null;null;21
+0879;Kotex tampones super 8und;16; 5,65 ; 0,90 ; 6,55 ;NULL;null;null;21
+0918;Kotex tampones medium 8und;16; 5,44 ; 0,87 ; 6,31 ;NULL;null;null;21
+0919;Kotex tampones digital medium 12und;16; 3,06 ; 0,49 ; 3,55 ;NULL;null;null;21
+0920;Kotex tampones digital super 12und;16; 3,56 ; 0,57 ; 4,13 ;NULL;null;null;21
+0862;Rxona jabon antibac avena 110gr;72; NULL ; NULL ; NULL ;NULL;null;null;22
+0864;Rxona jabon antibac fresh 110gr;72; NULL ; NULL ; NULL ;NULL;null;null;22
+0865;Rxona jabon antibac limpieza 110gr;72; NULL ; NULL ; NULL ;NULL;null;null;22
+0863;Rxona jabon antibac bamboo 110gr;72; NULL ; NULL ; NULL ;NULL;null;null;22
+0872;Rxona jabon antibac avena 3pack;24; NULL ; NULL ; NULL ;NULL;null;null;22
+0874;Rxona jabon antibac fresh 3pack;24; NULL ; NULL ; NULL ;NULL;null;null;22
+0875;Rxona jabon antibac limpieza 3pack;24; NULL ; NULL ; NULL ;NULL;null;null;22
+0873;Rxona jabon antibac bamboo 3pack;24; NULL ; NULL ; NULL ;NULL;null;null;22
+0861;Savital shampoo anticaspa menta 510ml;12; NULL ; NULL ; NULL ;NULL;null;null;22
+0860;Savital shampoo multivitaminas 510ml;12; NULL ; NULL ; NULL ;NULL;null;null;22
+0858;Savital shampoo multioleos 510ml;12; NULL ; NULL ; NULL ;NULL;null;null;22
+0859;Savital shampoo argan 510ml;12; NULL ; NULL ; NULL ;NULL;null;null;22
+0868;Savital acondicionador multivitaminas 490ml;12; NULL ; NULL ; NULL ;NULL;null;null;22
+0869;Savital acondicionador multioleos 490ml;12; NULL ; NULL ; NULL ;NULL;null;null;22
+0870;Savital acondicionador argan 490ml;12; NULL ; NULL ; NULL ;NULL;null;null;22
+0744;Vaseline locion corporal healthy 400ml;12; 2,92 ; 0,47 ; 3,39 ;NULL;null;null;22
+0743;Vaseline locion corporal deep prestore 400ml;12; 2,92 ; 0,47 ; 3,39 ;NULL;null;null;22
+0745;Vaseline petroleum jelly baby100ml;48; 1,79 ; 0,29 ; 2,08 ;NULL;null;null;22
+0907;Jab.Inti.Intibon.ving.manz y calen. 21gr;12; 3,65 ; 0,58 ; 4,23 ;NULL;null;null;23
+0908;Jab.Inti.Intibon calend.muj 21gr;12; 3,65 ; 0,58 ; 4,23 ;NULL;null;null;23
+0909;Jab.Inti.Intibon calen.nina 210 gr;12; 3,65 ; 0,58 ; 4,23 ;NULL;null;null;23
+0910;Jab.Inti.Intibon avn.y cal 210 gr;12; 3,65 ; 0,58 ; 4,23 ;NULL;null;null;23
+0911;Jab.Inti.Intibon cero 210 gr;12; 3,65 ; 0,58 ; 4,23 ;NULL;null;null;23
+0912;Sha.Nutrit.Restmax 600ml;6; 5,08 ; 0,81 ; 5,89 ;NULL;null;null;23
+0913;Sha.Nutrit.Repmax 600ml;6; 5,08 ; 0,81 ; 5,89 ;NULL;null;null;23
+0914;Sha.Nutrit.Keratinmax 600ml ;6; 5,08 ; 0,81 ; 5,89 ;NULL;null;null;23
+0904;Acond.Nutrit.Kerat.550ml;6; 4,65 ; 0,74 ; 5,39 ;NULL;null;null;23
+0905;Acond.Nutrit.Repra 550 ml;6; 4,65 ; 0,74 ; 5,39 ;NULL;null;null;23
+0906;Acond.Nutrit.Restmax.coc.550 ml;6; 4,65 ; 0,74 ; 5,39 ;NULL;null;null;23
+;Detergente ABC durazno 400gr;24; 0,83 ; 0,13 ; 4,23 ;NULL;null;null;24
+;Detergente ABC durazno 800gr;20; 1,68 ; 0,27 ; 4,23 ;NULL;null;null;24
+;Detergente ABC bebe 400gr;24; NULL ; NULL ; 4,23 ;NULL;null;null;24
+;Detergente ABC bebe 800gr;20; 1,68 ; 0,27 ; 4,23 ;NULL;null;null;24
+;Detergente ABC limpio brillante 400gr;24; 0,83 ; 0,13 ; 4,23 ;NULL;null;null;24
+;Detergente ABC limpio brillante 800gr;20; 1,68 ; 0,27 ; 5,89 ;NULL;null;null;24
+;Detergente ABC floral 400gr;24; NULL ; NULL ; 5,89 ;NULL;null;null;24
+;Detergente ABC floral 800gr;20; NULL ; NULL ; 5,89 ;NULL;null;null;24
