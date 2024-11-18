@@ -11,11 +11,11 @@
     </div>
     <div class="row mt-3 mx-4">
         @foreach ($productos as $producto)
-        <x-detalle-producto :producto="$producto" />
+            <x-detalle-producto :producto="$producto" />
 
-   {{-- Modal Seguimiento --}}
-   <x-modal-seguimiento-pedido />
-    @endforeach
+            {{-- Modal Seguimiento --}}
+        @endforeach
+        <x-modal-seguimiento-pedido />
     </div>
 @section('js')
     <script>

@@ -8,12 +8,12 @@ aria-hidden="true">
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body-pedido">
-            <button onclick="copiarTabla()" class="btn btn-primary my-2 float-end mx-2">Copiar</button>
+            <button onclick="compartirTablaWhatsApp()" class="btn btn-primary my-2 float-end mx-2">Compartir</button>
             <table class="table table-bordered" id="tabla-pedido">
                 <thead>
                     <tr>
                         <th>Código</th>
-                        <th>Descripcion</th>
+                        {{-- <th>Descripcion</th> --}}
                         <th>Unidades</th>
                     </tr>
                 </thead>

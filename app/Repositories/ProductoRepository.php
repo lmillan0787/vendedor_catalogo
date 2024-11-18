@@ -33,7 +33,8 @@ class ProductoRepository
                 'nombre_marca',
                 'precio',
                 'iva',
-                'precio_con_iva'
+                'precio_con_iva',
+                'unidades_por_caja'
             )
             ->join('marcas', 'marcas.id', '=', 'productos.marca_id')
             ->leftJoin('producto_imagenes', 'producto_imagenes.id', '=', 'productos.imagen_id')
@@ -50,6 +51,7 @@ class ProductoRepository
         return $this->producto
             ->select(
                 'productos.id',
+                'productos.codigo_producto',
                 'precio',
                 'iva',
                 'precio_con_iva',
@@ -57,7 +59,8 @@ class ProductoRepository
                 'producto_imagenes.imagen',
                 'descripcion_producto',
                 'nombre_marca',
-                'productos.imagen_id'
+                'productos.imagen_id',
+                'unidades_por_caja'
             )
             ->join('marcas', 'marcas.id', '=', 'productos.marca_id')
             ->join('producto_imagenes', 'producto_imagenes.id', '=', 'productos.imagen_id')

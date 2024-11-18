@@ -1,4 +1,4 @@
-<div class="col-md-3 col-sm-12 mt-3 p-4">
+<div class="col-md-2 col-6 mt-3 p-4">
     <div class="card">
         <div class="card-header fw-bold" id="div-descripcion-{{ $producto->id }}">
             {{ $producto->descripcion_producto }}
@@ -10,16 +10,23 @@
                     alt="" srcset="">
             </div>
             <div class="row">
+                <input type="hidden" name="codigo_producto-{{ $producto->id }}" id="codigo_producto-{{ $producto->id }}" value="{{ $producto->codigo_producto }}">
                 <div class="col-md-6">Precio</div>
                 <div class="col-md-6 fw-bold" id="div-precio-{{ $producto->id }}"> {{ $producto->precio }} </div>
             </div>
-            <div class="row">
+            {{-- <div class="row">
                 <div class="col-md-6">IVA</div>
                 <div class="col-md-6 fw-bold" id="div-iva-{{ $producto->id }}">{{ $producto->iva }}</div>
             </div>
             <div class="row">
                 <div class="col-md-6">Precio con Iva</div>
                 <div class="col-md-6 fw-bold" id="div-precio-iva-{{ $producto->id }}">{{ $producto->precio_con_iva }}</div>
+            </div> --}}
+            <div class="row pb-2">
+                <div class="col-md-6">Unidades por Caja</div>
+                <div class="col-md-6">
+                    <div class="col-md-6 fw-bold" id="div-unidades-caja-{{ $producto->unidades_por_caja }}"> {{ $producto->unidades_por_caja }} </div>
+                </div>
             </div>
             <div class="row pb-2">
                 <div class="col-md-6">Unidades</div>

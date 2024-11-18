@@ -29,22 +29,22 @@ function mostrarDetalleProducto(producto) {
 
 function agregarAlPedido(producto) {
 
-    if (!$('#unidades_pedido-'+producto).val()) {
+    if (!$('#unidades_pedido-' + producto).val()) {
         Swal.fire({
             title: 'Error!',
             text: 'Debe ingresar las unidades a pedir',
             icon: 'error',
             confirmButtonText: 'Cerrar'
-          })
+        })
         return;
     }
 
     let pedido = localStorage.getItem('pedido') ? JSON.parse(localStorage.getItem('pedido')) : []; // Obtener el pedido existente o crear uno nuevo
 
     let nuevoProducto = {
-        codigo: producto,
-        descripcion: $('#div-descripcion-'+producto).text(),
-        unidades: $('#unidades_pedido-'+producto).val()
+        codigo: $('#codigo_producto-' + producto).val(),
+        //descripcion: $('#div-descripcion-'+producto).text(),
+        unidades: $('#unidades_pedido-' + producto).val()
     };
 
     pedido.push(nuevoProducto); // Agregar el nuevo producto al array
@@ -54,10 +54,10 @@ function agregarAlPedido(producto) {
         text: 'Producto agregado al pedido',
         icon: 'success',
         confirmButtonText: 'Cerrar'
-      })
+    })
 
     localStorage.setItem('pedido', JSON.stringify(pedido)); // Guardar el pedido actualizado
-    $('#unidades_pedido-'+producto).val('');
+    $('#unidades_pedido-' + producto).val('');
 
 }
 
@@ -73,7 +73,6 @@ function verPedido() {
             $('#tbody-pedido').append(
                 `<tr>
                     <td>${producto.codigo}</td>
-                    <td>${producto.descripcion}</td>
                     <td>${producto.unidades}</td>
                     <td><a role="button" onclick="eliminarProductoPedido('${producto.codigo}')">X</a></td>
                 </tr>`
@@ -96,7 +95,7 @@ function eliminarPedido() {
         cancelButtonColor: '#d33',
         confirmButtonText: 'Si, eliminar',
         cancelButtonText: 'Cancelar'
-      }).then((result) => {
+    }).then((result) => {
         if (result.isConfirmed) {
             localStorage.setItem('pedido', JSON.stringify([]));
 
@@ -105,28 +104,51 @@ function eliminarPedido() {
                 text: 'Pedido restablecido',
                 icon: 'success',
                 confirmButtonText: 'Cerrar'
-              })
+            })
 
 
         }
-      })
+    })
 
 
 }
 
 function eliminarProductoPedido(codigo) {
     console.log(codigo)
-    let datos = localStorage.getItem('pedido');
 
-    if (datos) {
-        let pedido = JSON.parse(datos);
-        let index = pedido.findIndex(producto => producto.codigo === codigo);
-        if (index !== -1) {
-            pedido.splice(index, 1);
-            localStorage.setItem('pedido', JSON.stringify(pedido));
-            verPedido();
+
+
+    Swal.fire({
+        title: 'Confirmar',
+        text: "¿Desea eliminar el producto del pedido?",
+        icon: 'warning',
+        showCancelButton: true,
+        confirmButtonColor: '#3085d6',
+        cancelButtonColor: '#d33',
+        confirmButtonText: 'Si, eliminar',
+        cancelButtonText: 'Cancelar'
+    }).then((result) => {
+        if (result.isConfirmed) {
+
+            let datos = localStorage.getItem('pedido');
+
+            if (datos) {
+                let pedido = JSON.parse(datos);
+                let index = pedido.findIndex(producto => producto.codigo === codigo);
+                if (index !== -1) {
+                    pedido.splice(index, 1);
+                    localStorage.setItem('pedido', JSON.stringify(pedido));
+                    verPedido();
+                }
+            }
+
         }
-    }
+    })
+
+
+
+
+
 }
 
 function copiarTabla() {
@@ -163,4 +185,40 @@ function validarBotonEliminar() {
     if (localStorage.getItem('pedido')) {
         $('#boton-pedido').attr('disabled', false);
     }
+}
+
+function compartirTablaWhatsApp() {
+    const tabla = document.getElementById('tabla-pedido');
+    let contenido = '';
+
+    // Verificar si la tabla existe
+    if (!tabla) {
+        console.error('La tabla no se encontró.');
+        return;
+    }
+
+    // Recorrer las filas de la tabla
+    for (let i = 0; i < tabla.rows.length; i++) {
+        let fila = tabla.rows[i];
+        let filaContenido = [];
+
+        // Recorrer las celdas de cada fila, omitiendo la cuarta columna (índice 3)
+        for (let j = 0; j < fila.cells.length; j++) {
+            if (j !== 3) { // Omitir la columna de índice 3 (Ocupación)
+                filaContenido.push(fila.cells[j].innerText); // Obtener el texto de la celda
+            }
+        }
+
+        // Unir celdas con un espacio y agregar nueva línea
+        contenido += filaContenido.join(' | ') + '\n'; // Usa ' | ' como separador
+    }
+
+    // Codificar el contenido para incluirlo en una URL
+    const mensajeWhatsApp = encodeURIComponent(contenido);
+
+    // Crear el enlace para compartir en WhatsApp
+    const urlWhatsApp = `https://api.whatsapp.com/send?text=${mensajeWhatsApp}`;
+
+    // Abrir el enlace en una nueva pestaña
+    window.open(urlWhatsApp, '_blank');
 }

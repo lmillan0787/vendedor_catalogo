@@ -20,17 +20,32 @@
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
     <style>
         .producto-imagen {
-             max-width: 120px;
-             height: 150px;
-         }
+            max-width: 120px;
+            height: 150px;
+        }
 
-         @media (min-width: 768px) {
-             .producto-imagen {
-                 max-width: 120px;
-                 /* Adjust the maximum width for larger screens */
-             }
-         }
-     </style>
+        @media (min-width: 768px) {
+            .producto-imagen {
+                max-width: 120px;
+                /* Adjust the maximum width for larger screens */
+            }
+        }
+
+        .card-header-responsive {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 50px;
+
+            /* Estilos para pantallas pequeñas */
+            @media (max-width: 768px) {
+                font-size: 12px;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            }
+        }
+    </style>
 </head>
 
 <body>
